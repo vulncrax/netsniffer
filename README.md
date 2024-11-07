@@ -23,7 +23,7 @@
 # instaltion 
 
 ```bash
-   git clone https://github.com/aymensecurity/netsniffer.git
+   git clone https://github.com/vulncrax/netsniffer.git
    cd netsniffer
    pip install -r requirements.txt 
    python3 netsniffer.py
