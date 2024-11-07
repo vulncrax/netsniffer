@@ -1,4 +1,4 @@
-<center><img src="./banner.jpg"></center>
+<center><img src="images/./banner.jpg"></center>
 <h1 align="center">NetSniffer</h1>
 <h3>NetSniffer: Your essential Linux tool for network reconnaissance and security auditing.</h3>
 
@@ -10,11 +10,11 @@
  
  Website IP Resolution: Instantly resolve websites ip address.
  
-<center><img src="./ns1.jpg"></center
+<center><img src="images/./ns1.jpg"></center
 
-<center><img src="./ns2.jpg"></center>
+<center><img src="images/./ns2.jpg"></center>
 
-<center><img src="./ns3.jpg"></center>
+<center><img src="images/./ns3.jpg"></center>
 
 
 
